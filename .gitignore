@@ -1,0 +1,5 @@
+logs/nginx/*
+logs/php/*
+consul*
+run.sh
+redis/data/*
